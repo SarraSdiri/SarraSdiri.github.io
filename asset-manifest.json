@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.22f45717.css",
-    "main.js": "/static/js/main.5e6d46ad.js",
+    "main.css": "/static/css/main.95f69301.css",
+    "main.js": "/static/js/main.4cd6faf3.js",
     "static/media/iraqborsawebsite.jpg": "/static/media/iraqborsawebsite.fecd436de752c61a04fb.jpg",
     "static/media/felinepal.jpg": "/static/media/felinepal.55adcbc5cf7270d2c311.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.22f45717.css",
-    "static/js/main.5e6d46ad.js"
+    "static/css/main.95f69301.css",
+    "static/js/main.4cd6faf3.js"
   ]
 }
